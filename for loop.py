@@ -1,6 +1,6 @@
 #for loop
 #From 100 to 200 print the even numbers
-'''for i in range (101,201):
+for i in range (101,201):
     if i%2==0:
         print(i)
 
@@ -35,7 +35,7 @@ b=str(number)
 for i in b:
     c=int(i)
     sum+=c
-    print(sum)'''
+    print(sum)
 
 #Reverse of the number
 number=int(input("enter the number:"))
